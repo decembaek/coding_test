@@ -21,6 +21,3 @@ def solution(num_list):
         if num_list[i] < 0:
             return i
     return -1
-
-
-# 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
